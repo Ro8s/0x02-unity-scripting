@@ -158,3 +158,21 @@ Received Import Request.
 Start importing Assets/Materials/player.mat using Guid(335dbd3f0914ed34780a5f6ab353a9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4eae9bbc025d51608d4180e058e03ad') in 0.015165 seconds 
   Import took 0.018252 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 355.754050 seconds.
+  path: Assets/mazeSettings.lighting
+  artifactKey: Guid(1e9972a2b8fb48e4e867e8b031d35bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mazeSettings.lighting using Guid(1e9972a2b8fb48e4e867e8b031d35bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'baf856f0879ca385ea28c6e9e445fccf') in 0.007759 seconds 
+  Import took 0.010667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001449 seconds.
+  path: Assets/mazeSettings.lighting
+  artifactKey: Guid(1e9972a2b8fb48e4e867e8b031d35bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mazeSettings.lighting using Guid(1e9972a2b8fb48e4e867e8b031d35bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'baf856f0879ca385ea28c6e9e445fccf') in 0.002650 seconds 
+  Import took 0.005447 seconds .
+
